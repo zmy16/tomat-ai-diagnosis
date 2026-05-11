@@ -1,0 +1,8 @@
+{
+    "model_tomat_vgglike_scratch.keras": {
+        "accuracy": "94.80%"
+    },
+    "model_tomat_resnetlike_scratch.keras": {
+        "accuracy": "92.30%"
+    }
+}
